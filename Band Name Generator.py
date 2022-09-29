@@ -1,0 +1,11 @@
+# print('hello user welcome to brand generator.')
+# city=input("what city did you grow up in?\n")
+# pet=input("what is pet name\n")
+# print("your brand name will be" +" " +city +pet)
+
+print('hello user')
+name= input("what is your beautiful name \n")
+print("hello"+" "+ name+ '\n' "welcome to brand generator")
+genre=input("what genre of music do you fuck with ")
+food=input("what is your favotite food ")
+print("your brand name will be: " + " "+ genre + food)
